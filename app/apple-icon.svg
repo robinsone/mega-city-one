@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180" fill="none">
+  <rect width="180" height="180" fill="#111111"/>
+  <path d="M90 30L40 55V90C40 123.5 61.5 153 90 160C118.5 153 140 123.5 140 90V55L90 30Z" fill="#111111" stroke="#CC0000" stroke-width="8"/>
+  <path d="M90 50L60 65V90C60 110.25 72.75 128 90 132.5C107.25 128 120 110.25 120 90V65L90 50Z" fill="#CC0000"/>
+  <path d="M90 75L80 85V100C80 107.5 84 114 90 115C96 114 100 107.5 100 100V85L90 75Z" fill="#111111"/>
+  <text x="90" y="175" font-family="Arial" font-size="14" fill="#FFFFFF" text-anchor="middle">MEGA-CITY ONE</text>
+</svg>
+
